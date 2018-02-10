@@ -239,7 +239,7 @@ class Beanstalk
 			return false;
 		}
 
-		return response[1];
+		return this;
 	}
 
 	/**
